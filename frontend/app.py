@@ -3,7 +3,7 @@ import streamlit as st
 
 
 API_URL = (
-    "http://127.0.0.1:8000/api"
+    "https://letterboxd-recommender-y38p.onrender.com/"
 )
 
 st.set_page_config(
